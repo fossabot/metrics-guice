@@ -1,4 +1,5 @@
 [![Build Status](https://semaphoreci.com/api/v1/marshallpierce/metrics-guice/branches/master/badge.svg)](https://semaphoreci.com/marshallpierce/metrics-guice)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fe-gris%2Fmetrics-guice.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fe-gris%2Fmetrics-guice?ref=badge_shield)
  [ ![Download](https://api.bintray.com/packages/marshallpierce/maven/com.palominolabs.metrics%3Ametrics-guice/images/download.svg) ](https://bintray.com/marshallpierce/maven/com.palominolabs.metrics%3Ametrics-guice/_latestVersion) 
 # Quick Start
 
@@ -100,3 +101,7 @@ One common way users might hit this issue is if when trying to use `@Counted`, e
 
 This module started from the state of metrics-guice immediately before it was removed from the [main metrics repo](https://github.com/dropwizard/metrics) in [dropwizard/metrics@e058f76dabf3f805d1c220950a4f42c2ec605ecd](https://github.com/dropwizard/metrics/commit/e058f76dabf3f805d1c220950a4f42c2ec605ecd).
 
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fe-gris%2Fmetrics-guice.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fe-gris%2Fmetrics-guice?ref=badge_large)
